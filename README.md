@@ -1,5 +1,5 @@
 # Bullpen Pitch Charting
-Let's create an app that allows you to track every pitch your players throw from bullpens to live BP to live game action
+Let's create an app that allows you to track every pitch your players throw from bullpens to live BP to live game action.  Track your pitchers workload over time, discover trends that lead to success.
 
 Some things it should do:
 - Track a pitcher's progress over time
